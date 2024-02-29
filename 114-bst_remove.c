@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
- * min_finder - Finds the minimum root
- * @root: pointer to the tree
+ * minFinder - Finds the minimum root
+ * @start: pointer to the tree
  * Return: the min number
  *
  * Time Complexity: O(h)
